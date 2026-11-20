@@ -1,4 +1,7 @@
 
+# Python virtual environment
+venv/
+
 # Local database credentials
 web/config/dbconn.php
 
